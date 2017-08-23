@@ -1,1 +1,1 @@
-"Estrutura Condicional Sal·rio MÌnimo C# Curso ProgramaÁ„o de Dispositivos MÛveis SENAC" 
+"Estrutura Condicional Sal√°rio M√≠nimo C# Curso Programa√ß√£o de Dispositivos M√≥veis SENAC" 
